@@ -92,16 +92,17 @@
 							<div class="row">
 								
 								<div class="column-small-2">
-									
+									<script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=techstreamorg" id="_carbonads_js"></script>
 								</div>
 								<div class="column-small-8">
 									<h1 class="article-heading">PHP Date &amp; Time</h1>
 									<article>
 										<p>The following is a reference table of common PHP dates, enter a timestamp or it will take the current time stamp from the server. <code><?php echo $time?></code></p>
-										<form class="" method="get">
+										<form method="get">
 											<div class="row">
-										        <div class="column-xsmall-8  padd0"><input name="timestamp" required="required" placeholder="<?php echo $time?>" type="number"></div>
+										        <div class="column-xsmall-6  padd0"><input name="timestamp" required="required" placeholder="<?php echo $time?>" type="number"></div>
 										        <div class="column-xsmall-2 padd0-xsmall"><input class="" value="Go" type="submit"></div>
+										        <div class="column-xsmall-2 padd0-xsmall"><a href="./">Reset</a></div>
 										    </div>
 									    </form>
 										
