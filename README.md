@@ -1,9 +1,11 @@
-----Article Name ----
+PHP Date & Time
 ================
 
-----Article Name ---- 
+PHP Date & Time 
 
-This is a demo code to ----Article Name ---- made for article on Techstream ----Article Link----
+This is a demo code to PHP Date & Time made for article on Techstream http://techstream.org/Bits/PHP/PHP-Date-Time
+
+Reference table for PHP date formats, Standard, regular,MYSQL and human readable formats
 
 Credits
 -------
